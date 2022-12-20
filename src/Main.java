@@ -6,7 +6,7 @@ public class Main {
         XLR.color="red";
         XLR.doors="5";
         XLR.engine=32323;
-        XLR.model="a5";
+        XLR.model="456789";
 
     }
 }
